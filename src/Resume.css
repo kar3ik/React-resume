@@ -1,0 +1,51 @@
+/* src/Resume.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+  h2,
+  h3,
+  h4 {
+    color: #007bff; /* Keep the blue color for headings */
+  }
+  
+  p {
+    color: #ccc; /* Light gray color for regular text */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Custom styling for specific elements */
+  
+  h2 {
+    font-size: 2.5rem;
+  }
+  
+  h3 {
+    font-size: 2rem;
+  }
+  
+  h4 {
+    font-size: 1.8rem;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
+  /* Add more custom styling as needed */
+  
